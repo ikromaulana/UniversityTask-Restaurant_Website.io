@@ -1,0 +1,169 @@
+@font-face {
+    font-family: 'Magzo';
+    src: url(Font/Magzo.ttf);
+}
+@font-face {
+    font-family: 'MontserratM';
+    src: url(Font/Montserrat-Medium.otf);
+}
+@font-face {
+    font-family: 'MontserratL';
+    src: url(Font/Montserrat-Light.otf);
+}
+@font-face {
+    font-family: 'Amertha';
+    src: url(Font/Amertha_PERSONAL_USE_ONLY.ttf);
+}
+@font-face {
+    font-family: 'Fraunces';
+    src: url(Font/Fraunces9ptS000-Bold.ttf);
+}
+@font-face {
+    font-family: 'MontserratSM';
+    src: url(Font/Montserrat-SemiBold.otf);
+}
+@font-face {
+    font-family: 'MontserratB';
+    src: url(Font/Montserrat-Bold.otf);
+}
+body{
+    background-color: #f0f0f0;
+    margin: 0;
+}
+.nav1 img{
+width: 100px;
+margin-left: 570px;
+}
+.button{
+    width: 100px;
+    margin-left: 1200px;
+    margin-top: 550px;
+}
+.carouselcaption h5{
+    font-family: 'Fraunces';
+}
+.carouselcaption p{
+    font-family: 'MontserratL';
+}
+.carouselcaption{
+    margin-bottom: 350px;
+    text-shadow: 5px 5px 15px black;
+}
+.text1 h1{
+    font-family: 'Fraunces';
+    color: rgb(54, 129, 214);
+    margin-top: 120px;
+    margin-bottom: 35px;
+}
+.quote p{
+    font-family: 'MontserratL';
+    color: #6798D0;
+    margin-top: -15px;
+}
+.foto1{
+    width: 680px;
+    margin-top: 120px;
+}
+.kotaktentang{
+    width: 669px;
+    height: 455px;
+    background-color: rgb(54, 129, 214);
+    margin-left: 680px;
+    margin-top: -455px;
+}
+.text2{
+    width: 669px;
+    height: 455px;
+    margin-left: 680px;
+    margin-top: -455px;
+}
+.text2 h1{
+    font-family: 'MontserratB';
+    color: #ffc739;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.text2 p{
+    text-align: justify;
+    font-family: 'MontserratL';
+    font-size: 15px;
+    color: white;
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.teks3{
+    margin: auto;
+    text-shadow: 5px 5px 10px black;
+    margin-bottom: 550px;
+    width: 500px;
+}
+.teks3 h1{
+    font-family: 'Fraunces';
+    color: #ffc739;
+}
+.teks3 p{
+    font-family: 'MontserratL';
+    color: #ffffff;
+}
+.posneg{
+    margin-top: 120px;
+    color: rgb(54, 129, 214);
+    font-family: 'Fraunces';
+}
+.table{
+    width: 700px;
+    margin-bottom: 160px;
+}
+.kotakl{
+    border-radius: 10px;
+    width: 710px;
+    height: 510px;
+    background-color: #ffc739;
+    position: static;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.lokasi h1{
+    font-family: 'Fraunces';
+    color: rgb(54, 129, 214);
+    margin-bottom: 20px;
+}
+.lokasi{
+    margin-top: -573px;
+}
+.lokasi iframe{
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.text3{
+    font-family: 'Fraunces';
+    color: rgb(54, 129, 214);
+    margin-top: 120px;
+    margin-bottom: 20px;
+
+}
+.foto2 img{
+    width: 400px;
+}
+.kotaksaran1{
+    margin-top: 200px;
+    width: 1349px;
+    height: 400px;
+    background-color: white;
+}
+.kotaksaran{
+    margin-top: -350px;
+    margin-left: 280px;
+    position: static;
+    width: 800px;
+    height: 200px;
+}
+.mb-3 h1{
+    font-family: 'MontserratSM';
+}
